@@ -1,2 +1,2 @@
 # cswin-unet
-a unet combine resnet and swin transformer
+Integrate the U-Net model with ResNet and Swin Transformer.
